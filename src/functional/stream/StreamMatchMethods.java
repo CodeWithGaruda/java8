@@ -1,4 +1,4 @@
-package stream;
+package functional.stream;
 
 import java.util.HashSet;
 import java.util.Set;
